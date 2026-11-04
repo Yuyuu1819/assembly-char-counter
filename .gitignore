@@ -1,0 +1,30 @@
+# Archivos de usuario y configuración de Visual Studio 
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Carpetas de Compilación (Salida) 
+[Debug]/
+[Release]/
+x64/
+x86/
+[Bb]in/
+[Ob]j/
+
+# Archivos temporales de C++ y ASM 
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.log
+
+# Base de datos de código (IntelliSense) 
+*.ncb
+*.sdf
+*.opensdf
+*.db
